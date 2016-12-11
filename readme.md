@@ -1,13 +1,10 @@
 # About
 
-This is a GoLang tool to download videos from bilibili.com
+This is a Golang tool to download videos from bilibili.com
 
 # How does it works
 
-1. You provide the AV_ID of bilibili video
-```
-http://www.bilibili.com/video/av7342741/ -> AV_ID: 7342741
-```
+1. You provide the AV_ID of bilibili video, for example: http://www.bilibili.com/video/av7342741/ -> AV_ID: 7342741
 2. Refer to bilibilijj.com to get the video link
 3. Download the video in sequence or in parallel
 
